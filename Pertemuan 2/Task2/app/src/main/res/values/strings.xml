@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="button" />
+    <string name="button_label_count" />
+    <string name="button_label_toast" />
+    <string name="count_initial_value" />
+    <string name="toast_message" />
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+    <string name="toast">Toast</string>
+</resources>

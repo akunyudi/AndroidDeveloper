@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yudi App</string>
+    <string name="input_control_activity">Input Control Activity</string>
+    <string name="listview_activity">ListView Activity</string>
+    <string name="input_recycleview_activity">RecycleView Activity</string>
+    <string name="input_quit">Quit</string>
+</resources>

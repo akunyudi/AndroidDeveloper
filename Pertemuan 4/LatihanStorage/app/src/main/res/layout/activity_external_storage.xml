@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.latihanstorage.ExternalStorage">
+
+    <Button
+        android:id="@+id/bt_show__path_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show path"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_buat_file_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="buat file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_ubah_file_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ubah file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_baca_file_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="baca file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_hapus_file_external"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hapus file"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tv_content_external"
+        android:layout_width="match_parent"
+        android:layout_height="495dp"
+        android:text="content"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

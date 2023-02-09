@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.latihanstorage.InternalStrorage">
+
+    <Button
+        android:id="@+id/bt_show_path_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show path"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_buat_file_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="buat file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_ubah_file_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ubah file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_baca_file_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="baca file"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/bt_hapus_file_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hapus file"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tv_content_internal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="content"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login And SQLite</string>
+    <string name="we_re_students">We \'re students</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>
